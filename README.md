@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Legends Always Die Zeno</h1>
 <h3 align="center">Iustus homo in hoc mundo crudeli conatur facere.</h3>
 
 - 📝 I regularly write articles on history. [https://parmenidies.wixsite.com/sifting-through-cent](https://parmenidies.wixsite.com/sifting-through-cent)
-
-- ⚡ Fun fact **I am always 20 minutes early for everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
