@@ -2,7 +2,7 @@
 
 - 📝 I regularly write articles on history. [https://parmenidies.wixsite.com/sifting-through-cent](https://parmenidies.wixsite.com/sifting-through-cent)
 
-- ⚡ Fun fact **I am always 20 minutes early for everything**
+- 💬 Ask me about **React, JavaScript, and Node.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
