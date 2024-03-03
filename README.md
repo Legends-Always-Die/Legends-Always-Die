@@ -2,6 +2,8 @@
 
 - 📝 I regularly write articles on history. [https://parmenidies.wixsite.com/sifting-through-cent](https://parmenidies.wixsite.com/sifting-through-cent)
 
+- ⚡ Fun fact **I am always 20 minutes early for everything**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/23294032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23294032" height="30" width="40" /></a>
