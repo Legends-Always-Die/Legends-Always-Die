@@ -1,6 +1,6 @@
 <h3 align="center">Iustus homo in hoc mundo crudeli conatur facere.</h3>
 
-- 📝 I regularly write articles on history. [https://parmenidies.wixsite.com/sifting-through-cent](https://parmenidies.wixsite.com/sifting-through-cent)
+- 📝 Check out my history blog! [https://parmenidies.wixsite.com/sifting-through-cent](https://parmenidies.wixsite.com/sifting-through-cent)
 
 - 💬 Ask me about **React, JavaScript, and Node.**
 
